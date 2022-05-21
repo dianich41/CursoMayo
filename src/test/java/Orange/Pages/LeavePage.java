@@ -21,4 +21,7 @@ public class LeavePage {
 		questions.screenShot();
 	}
 
+	public void buscarEmpleado(String employee) {
+		question.scrollSearch(employee);
+	}
 }
